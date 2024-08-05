@@ -11,7 +11,7 @@
 - [Illustrating the Answers](#illustrating-the-answers)
 - [Plus one](#plus-one)
 
-<br/><br/>
+<br/>
 
 ### Project Overview
 
