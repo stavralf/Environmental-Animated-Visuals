@@ -1,6 +1,5 @@
 # Environmental Animated Visuals
 
-<br/>
 
 ## Table of Contents
 
@@ -26,7 +25,7 @@ out of context, we present a very interesting animated graph comparing GDP vs Li
 
 The information about the energy sources of electricity production in Greece are collected individually from the Greek Ministry of Energy and incorporated directly to the R script.
 Moreover, the data concerning Denmark's average temperature and Co2 emissions was retrieved from the relevant official State's website and are stored in the files 
-"observed-average-annual-mean-temperature-of-denmark-for-1901-2020.xml", "Co2_with_biomass", "Co2_without_biomass".
+"observed-average-annual-mean-temperature-of-denmark-for-1901-2020.csv", "Co2_with_biomass.xml", "Co2_without_biomass.xml".
 
 ### Tools
 
