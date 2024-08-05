@@ -92,6 +92,10 @@ animate(graph2.animation, nframes = 5, fps = 1)
 ```
 ![EnergyPie2](https://github.com/user-attachments/assets/673e41bb-25c2-476a-b886-3a5e6efa0192)
 
+From the pie chart we see that electricity from coal is still a substantial part of the energy production in Greece in 2021, that 
+the relevant figure for renewable energy is fluctuating significantly, implying inadequate stability of green energy production, while,
+natural gas holds the first place in terms of where most electricity produced in Greece between January and May, 2021. 
+
 <br/><br/>
 ### 2.
 
