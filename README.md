@@ -1,6 +1,7 @@
 # Environmental Animated Visuals
 
 <br/>
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
