@@ -1,6 +1,6 @@
 # Environmental Animated Visuals
 
-
+<br/>
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -9,7 +9,7 @@
 - [Questions to be answered](#questions-to-be-answered)
 - [Illustrating the Answers](#illustrating-the-answers)
 - [Plus one](#plus-one)
-
+##
 <br/>
 
 ### Project Overview
